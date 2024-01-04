@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Joelle Barbara</h1>
-<h3 align="center">A passionate Data Scientist, Analyst and engineer.</h3>
+<h3 align="center">Data Scientist, Analyst and engineer.</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joelle-barbara-2a6246275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joelle-barbara-2a6246275" height="30" width="40" /></a>
